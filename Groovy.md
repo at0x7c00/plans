@@ -17,18 +17,17 @@ Groovy就是一门正常的编程语言，它比Gradle可庞大，Gradle仅仅�
 
 
 ## 第二步 确定范围
-* 了解Groovy基础语法细节
-* 开发模式
+* 了解Groovy的基本应用
 
 ## 第三步 定义目标
 * 了解Groovy基础语法细节
-* 了解Groovey相对于Java的优势，什么是他能做或做的更好而Java没法做或做的不好的？
+* 开发模式和它的生态圈
 
 
 ## 第四步 寻找和筛选资源
-* 在线文档：[http://www.groovy-lang.org/documentation.html](http://www.groovy-lang.org/documentation.html)
-* 博客：[Groovy入门教程](http://blog.csdn.net/kmyhy/article/details/4200563)
-* 图书：[Groovy入门经典](http://download.csdn.net/download/jackyhuangch/9558812)
+[1] 在线文档：[http://www.groovy-lang.org/documentation.html](http://www.groovy-lang.org/documentation.html)
+[2] 博客：[Groovy入门教程](http://blog.csdn.net/kmyhy/article/details/4200563)
+[3] 图书：[Groovy入门经典](http://download.csdn.net/download/jackyhuangch/9558812)
 
 ## 第五步 创建学习计划
 * [2017/04/16] 搭建环境基础语法 0%
