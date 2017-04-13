@@ -26,13 +26,13 @@ Groovy就是一门正常的编程语言，它比Gradle可庞大，Gradle仅仅�
 
 
 ## 第四步 寻找和筛选资源
-* 在线文档：[http://www.groovy-lang.org/documentation.html](http://www.groovy-lang.org/documentation.html) 0%
-* 博客：[Groovy入门教程](http://blog.csdn.net/kmyhy/article/details/4200563) 0%
-* 图书：[Groovy入门经典](http://download.csdn.net/download/jackyhuangch/9558812) 0%
+* 在线文档：[http://www.groovy-lang.org/documentation.html](http://www.groovy-lang.org/documentation.html)
+* 博客：[Groovy入门教程](http://blog.csdn.net/kmyhy/article/details/4200563)
+* 图书：[Groovy入门经典](http://download.csdn.net/download/jackyhuangch/9558812)
 
 ## 第五步 创建学习计划
-书和文档的目录并非一定是你的学习路线，要根据实际情况确定。
-
+* [2017/04/16] 搭建环境基础语法 0%
+* 待定
 
 ## 第六步 开始学习，浅尝辄止
 
